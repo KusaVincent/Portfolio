@@ -23,32 +23,12 @@
     }
   },
   "social": {
-    "facebook": {
-      "link": "https://www.facebook.com",
-      "show_or_hide": true
-    },
-    "twitter": {
-      "link": "https://www.twitter.com",
-      "show_or_hide": true
-    },
     "linkedin": {
-      "link": "https://www.linkedin.com",
-      "show_or_hide": true
-    },
-    "instagram": {
-      "link": "https://www.instagram.com",
-      "show_or_hide": true
-    },
-    "youtube": {
-      "link": "https://www.youtube.com",
+      "link": "www.linkedin.com/in/vincent-kusa",
       "show_or_hide": true
     },
     "github": {
       "link": "https://www.github.com",
-      "show_or_hide": true
-    },
-    "dribbble": {
-      "link": "https://www.dribbble.com",
       "show_or_hide": true
     }
   }
