@@ -1,11 +1,10 @@
-const ProjectController = require('./ProjectController')
-const PostController = require('./PostController')
-const ServiceController = require('./ServiceController')
-
+const ProjectController = require("./ProjectController");
+const PostController = require("./PostController");
+const ServiceController = require("./ServiceController");
+const SubscriberController = require("./SubscriberController");
 module.exports = {
-
-	project: ProjectController,
+  project: ProjectController,
   post: PostController,
-  service: ServiceController
-
-}
+  service: ServiceController,
+  subscriber: SubscriberController
+};

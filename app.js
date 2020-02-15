@@ -26,6 +26,6 @@ const vertexRouters = require("./routes/vertex");
 // app.use("/", page);
 app.use("/", main);
 app.use("/api", vertexRouters.api);
-app.use("/blocks", vertexRouters.blocks);
+// app.use("/blocks", vertexRouters.blocks);
 
 module.exports = app;
