@@ -1,0 +1,36 @@
+{
+  "gallery": {
+    "img_1": "https://lh3.googleusercontent.com/6zeQ5R0PtDnGGRin73vxqENxMF5zuESTFEXH98AeiHn_Et4HJo6E_nzWuwgnRPOLhI0rqI7BGQXvsyzIDRqzBFrgfA",
+    "img_2": "https://lh3.googleusercontent.com/AFOZsHkV4Wz1qYKGoNF18gBeMF4q6I78HydCjmBk1fd8OLGXDvh88ZmwjvTuvgxVDiaDg0-HkM5NV9WaQ9hxP3F2hw8",
+    "img_3": "https://lh3.googleusercontent.com/L3Xkm77jLXy_FfsO_3C5H9Mcu3Z8QwbTdTWDggw6xgS5Um5Xtg9h56GOBdeJ-8Dp1zvM3h1EyOgVgy45CSUcAfSm",
+    "img_4": "https://lh3.googleusercontent.com/IHd860xF3eXnK2coqtTnsMD0ciXK-BMQ5rLgK320uslofVP-bnFnXix6P35ChHKWhXWGSn798CGY4ZRXsMAaU00V2g",
+    "img_5": "https://lh3.googleusercontent.com/zvs4i1VhDFY6t6dIuOKFn-g_SBWySTAp0v4Ye5Ube6R8vJlJABUMfkvAIR3oIsd1n_8h6c_YN-HzPgm85UAUv9IpaA",
+    "img_6": "https://lh3.googleusercontent.com/J6N5tZLwrnYiQpxlr5CP01symJcenAEY1LL0bhMTrkfqjpKmPWo9KQWUv4f9J3WWxedgCgxdvVqr3OQLKf3LiRqC43I"
+  },
+  "projects": {
+    "header": "My Projects",
+    "subHeader": "Take a look at my most recent work here"
+  },
+  "service": {
+    "text": "below are some of things I can do",
+
+    "web": "Web Development",
+    "wdescription": "Can work with Nodejs, Reactjs, GraphQL and MongoDB",
+    "img_1": "https://lh3.googleusercontent.com/gZw2gibFTxpbeh3Ib9NDIZomVup18pX27yBJb7PVvLT-ickH9EsbFjcs0VhQQYJ_LT9mUUnJjRarz_CaZDxoRsP7",
+
+    "android": "Mobile Development",
+    "adescription": "Can build Android application using Java or Kotlin ",
+    "img_2": "https://lh3.googleusercontent.com/8kalPz6RGR5_B6h6p__nthINWqgY3-FyNVZTIVN6fhcce6ToU2wGvqjV_SqGUquUw1_PlkY9KIeCVkMNZw9o7rxdiBY"
+  },
+  "hero": {
+    "img_background": "https://lh3.googleusercontent.com/WFrT5Z72O6poCP_G0Sh7fEUjaSPjO0Hlrf6YJ2x6LxH8E5mmQj5SPfQ8ZCxsi8vbEyGBS3piYmhWD2gz_xTK_GpGYqU",
+    "img_profile": "https://lh3.googleusercontent.com/3nfFAed0CZI1MDdiUabXGUJbB0eEOezwUAdW1X1KZQW0vVpeOrHluczzcLLB7lkD6NU3B3ros8lud3wzwu9FNuiemg",
+    "welcome": "Welcome!",
+    "about_me": "My name is Kusa Vincent, I am a Web and Mobile developer, I'm really excited to work with you"
+  },
+  "contact": {
+    "header": "Let us work together",
+    "subheader": "To work with me, fill the form below and I will get back to you right away",
+    "email": " Email: vincentkusa170203@daystar.ac.ke"
+  }
+}
